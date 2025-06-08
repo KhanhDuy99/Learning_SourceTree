@@ -5,8 +5,8 @@
 int main()
 {
 
-    int a = 5;
-    int b = 10;
+    int a = 5; // init a 
+    int b = 10; // init b 
 
     int c = Add(a,b);
     int d = Sub(a,b);
